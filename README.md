@@ -30,23 +30,23 @@ cd mc_1
 npm install
 npm run dev
 ```
-
+Open [http://localhost:3001](http://localhost:3001) with your browser to see the result.
 ```bash
 cd mc_2
 npm install
 npm run dev
 ```
-
+Open [http://localhost:3002](http://localhost:3002) with your browser to see the result.
 ```bash
 cd mc_3
 npm install
 npm run dev
 ```
-
+Open [http://localhost:3003](http://localhost:3003) with your browser to see the result.
 ```bash
 cd mc_4
 npm install
 npm run dev
 ```
-
+Open [http://localhost:3004](http://localhost:3004) with your browser to see the result.
 
