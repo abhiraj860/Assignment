@@ -24,6 +24,47 @@ npm run start
 ```
 Start the frontend clients
 
-For each of the folders 
+For each of the folders mc_1, mc_2, mc_3 and mc_4
+```bash
+cd mc_1
+```
+```bash
+npm install
+```
+
+```bash
+npm run dev
+```
+
+```bash
+cd mc_2
+```
+```bash
+npm install
+```
+
+```bash
+npm run dev
+```
+```bash
+cd mc_3
+```
+```bash
+npm install
+```
+
+```bash
+npm run dev
+```
+```bash
+cd mc_4
+```
+```bash
+npm install
+```
+
+```bash
+npm run dev
+```
 
 
