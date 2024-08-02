@@ -2,17 +2,17 @@
 
 Four machines that read and write real time data and each machine keeps track of other data.
 
-http://url/to/img.png](https://github.com/abhiraj860/Assignment/images/Machine_1<img width="959" alt="Machine_1" src="https://github.com/user-atta<img width="959" al<img width="342" alt="Send_image" src="https://github.com/user-attachments/assets/4f4d65c9-55aa-4ccc-ba5b-724aa0e69849">
-t="Machine_2" src="https://github.com/user-atta<img width="959" alt="Machine_4" src="https://github.com/user-attachments/assets/0d6756ee-5c45-4340-ac74-fc6127008c4d">
-chments/assets/b4ad7fd5-33cc-4c81-9669-5dd0ab2ea<img width="959" alt="Machine_3" src="https://github.com/user-attachments/assets/beaff7d7-57d2-4961-ba58-ea3d12b45581">
-55b">
-chments/assets/611d7dbf-acf9-413a-94da-437b2b16365a">
-.png))
-<img width="884" alt="Interface_image" src="https://github.com/user-attachments/assets/ee1f098f-fb03-4a00-8ea0-72a5562afe83">
-
 ## Installation
 
-Steps to setup the backend project.
+Steps to setup the backend  project.
+<img width="959" alt="Machine_1" src="https://github.com/user-attachments/assets/f7b0277f-dfb2-408d-9d22-93489b0631b6">
+<img width="959" alt="Machine_2" src="https://github.com/user-attachments/assets/83cd60f2-d6df-4542-9504-cf1efa2e814d">
+<img width="959" alt="Machine_3" src="https://github.com/user-attachments/assets/ad3779e2-ef67-4027-9779-41997d45da2d">
+<img width="959" alt="Machine_4" src="https://github.com/user-attachments/assets/a0873ba5-b634-430d-964a-7cca98766310">
+<img width="523" alt="Data_transfer" src="https://github.com/user-attachments/assets/8040cdbe-b8b1-4bde-bbe8-838efa0d6e8c">
+<img width="884" alt="Interface_image" src="https://github.com/user-attachments/assets/090a87ba-5094-432c-9cf8-70eb61d9c8dd">
+<img width="342" alt="Send_image" src="https://github.com/user-attachments/assets/3f75517b-96bb-43d7-82f7-9d5ffea7ea83">
+
 
 Clone the project
 ```bash
