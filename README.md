@@ -8,11 +8,6 @@ Steps to setup the project.
 
 ```bash
 git clone https://github.com/abhiraj860/Assignment.git
+```
 
-
-```bash
-npm install
-
-```bash
-npm run start
 
