@@ -22,5 +22,8 @@ Start the backend
 ```bash
 npm run start
 ```
+Start the frontend clients
+
+For each of the folders 
 
 
