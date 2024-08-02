@@ -37,6 +37,11 @@ Start the backend
 ```bash
 npm run start
 ```
+
+Run the tests
+```bash
+npm run test
+```
 Start the frontend clients
 
 For each of the folders mc_1, mc_2, mc_3 and mc_4
