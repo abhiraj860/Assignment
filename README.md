@@ -11,9 +11,9 @@ Four machines that read and write real time data and each machine keeps track of
 <img width="959" alt="Machine_3" src="https://github.com/user-attachments/assets/ad3779e2-ef67-4027-9779-41997d45da2d">
 <h3>Machine 4</h3>
 <img width="959" alt="Machine_4" src="https://github.com/user-attachments/assets/a0873ba5-b634-430d-964a-7cca98766310">
-<h3>Data showing the Sender of the data, the data and the timestamp</h3>
+<h3>Data showing the sender of the data, the data and the timestamps</h3>
 <img width="523" alt="Data_transfer" src="https://github.com/user-attachments/assets/8040cdbe-b8b1-4bde-bbe8-838efa0d6e8c">
-<h3>Showing the sender of the data, along with data and timestamp</h3>
+<h3>Showing the sender of the data, along with data and timestamps</h3>
 <img width="884" alt="Interface_image" src="https://github.com/user-attachments/assets/090a87ba-5094-432c-9cf8-70eb61d9c8dd">
 <h3>Send Data</h3>
 <img width="342" alt="Send_image" src="https://github.com/user-attachments/assets/3f75517b-96bb-43d7-82f7-9d5ffea7ea83">
