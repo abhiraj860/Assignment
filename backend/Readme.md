@@ -1,6 +1,6 @@
 ## Getting Started
 
-First, run the backend server:
+Run the backend server:
 
 ```bash
 npm install
