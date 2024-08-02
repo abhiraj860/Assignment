@@ -1,6 +1,8 @@
 # Real time data reading and writing
 
-Four machines that read and write real time data and each machine keeps track of other data. 
+Four machines that read and write real time data and each machine keeps track of other data.
+<h3>Sign Up Page</h3>
+<img width="400" alt="1" src="https://github.com/abhiraj860/Assignment/images/Machine_1.png">
 
 ## Installation
 
