@@ -1,6 +1,6 @@
 ## Getting Started
 
-First, run the development server:
+Run the frontend development server:
 
 ```bash
 npm run dev
