@@ -2,11 +2,11 @@ import WebSocket, { WebSocketServer } from "ws";
 
 import { PORT } from "./config";
 
-interface ProtocolHandler {
+export interface ProtocolHandler {
 	handleMessage(data: WebSocket.Data, client: WebSocket): void;
 }
 
-class WebSocketHandler implements ProtocolHandler {
+export class WebSocketHandler implements ProtocolHandler {
 	private ws: WebSocket;
 
 	constructor(ws: WebSocket) {
@@ -18,7 +18,7 @@ class WebSocketHandler implements ProtocolHandler {
 	}
 }
 
-class ProtocolFactory {
+export class ProtocolFactory {
 	static createHandler(
 		protocol: string,
 		connection: WebSocket
